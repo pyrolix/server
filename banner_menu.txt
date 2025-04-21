@@ -1,3 +1,106 @@
-kod ishlayabdi
-[1] menu
-[2] menu
+==================================================================
+== KODNI YANGILANGAN VAQTI: 07.03.2025  12:00
+==================================================================
+[ 0 ] 📑 Dastur haqida malumot va yangiliklar!
+[ 1 ] 📞 Telefon raqamlarini tekshirish
+[ 2 ] 🔗 Telefon raqamini bog'lash
+[ 3 ] 🔑 Sessiyadan kod olish
+[ 4 ] 🚫 Ta'qiqlangan hisoblarni filtrlash
+[ 5 ] 🧹 Sessiya ma'lumotlar bazasini tozalash (kesh)
+[ 6 ] 🗑️  Ozidan boshqa sessiyalarni o'chirish
+[ 7 ] 🔂 Ikki bosqichli parolni qayta tiklash. (7 kun kutiladi)
+[ 8 ] 🔒 Ikki bosqichli parolini o'zgartirish + o'rnatish 
+[ 9 ] ❌ Ikki bosqichli parolini o'chirish
+[ 10 ] 🌍 Telefon raqami Davlat manzilini tekshirish
+[ 11 ] 🤖 Maxfiy guruhga / kanalda qatnashish
+[ 12 ] 🔗 Faqat ochiq Guruh yoki Kanallarga qo'shish
+[ 13 ] 🚪 Barcha kanallardan/guruhlardan chiqish
+[ 14 ] 🏠 Maxsus kanaldan chiqish
+[ 15 ] 👤 Profil rasm, bio va boshqa ma'lumotlarni yashirish
+[ 16 ] 👁️ Profil rasm, bio va boshqa ma'lumotlarni ko'rsatish
+[ 17 ] 🧹 Barcha botlar va foydalanuvchilarni o'chirish
+[ 18 ] 💬 Guruh yoki chatga xabar yuborish
+[ 19 ] 🆔 Tasodifiy ismingizni o'rnating
+[ 20 ] 📝 Tasodifiy bio yozing
+[ 21 ] 🎂 Tasodifiy tug'ilgan kuningizni o'rnating
+[ 22 ] 🆎 Tasodifiy familiya o'rnating
+[ 23 ] 💻 Tasodifiy username o'rnating
+[ 24 ] 🚫 Foydalanuvchi username o'chirish
+[ 25 ] 🖼️ Tasodifiy profil rasmi o'rnating
+[ 26 ] 📢 Reklama yuboring
+[ 27 ] 🔟 So'nggi 10 xabarni ko'rish
+[ 28 ] 👍 Postga reaktsiya bildirish
+[ 29 ] 👀 Hikoyaga ko'rish va reaktsiya yuborish
+[ 30 ] 📊 So'rovnomada ovoz berish (vote)
+[ 31 ] 🤖 @BestRandom_bot shablonidan foydalanish
+[ 32 ] 🌟 Premium/Stars mukofotlarini tekshirish
+[ 33 ] 🔄 phone.csv faylidagi tekrorlanuvchi raqamlarni o'chirish
+[ 34 ] 🔧 phone.csv da bosh qatorlarni yoq qilish.
+[ 35 ] 📱 Hisobning Premium holatini ko'rish
+[ 36 ] 🌍 24/7 onlayn rejimni yoqish
+[ 37 ] 🛠️ Start/Channel/Verification/Contact ishga tushirish
+[ 38 ] 🔑 Referral ID bilan boshlash
+[ 39 ] 🤖 @CosmoRandomizebot shablonidan foydalanish
+[ 40 ] 🧳 Hisob ma'lumotlarini ko'rish (ism, bio, user, phone)
+[ 41 ] 📸 Hikoya joylash
+[ 42 ] 💳 Premiumni botga yuborish (Livegram)
+[ 43 ] 🚪 Sessiyalardan chiqish (Xavfli)
+[ 44 ] 🌟 Hisobning Stars holatini ko'rish
+[ 45 ] ⛔️ Kanalga shikoyat qilish. (ban berish)
+[ 46 ] 🚷 Bitasini bloklash yoki blokdan chiqarish.
+[ 47 ] 🤖 Faqat botlarni ochirish.
+[ 48 ] 🤖⛔️ Faqat botlarni ochirish va bloklash.
+[ 49 ] 👤 Faqat userlarni ochirish.
+[ 50 ] 👤⛔️ Faqat userlarni ochirish va bloklash.
+[ 51 ] 👍 Kanaldagi postga layk bosish.
+[ 52 ] 🚯 Spam akountlarni tekshirish.
+[ 53 ] 👥 Akontdagi barcha qurilmalar seanslarni korish.
+[ 54 ] 👻 Profildagi barcha rasmlarni ochirish.
+[ 55 ] 🌅 Profilga random chiroyli rasm qoyish.
+[ 56 ] 📣 Random kanal yaratish.
+[ 57 ] 👥 Random guruh yaratish.
+[ 58 ] ✏️ Akontdagi HASH string kodini faylga yozish.
+[ 59 ] 🙌 Post IDga reaktsiya bildirish (random)
+[ 60 ] 👏 Bir nechta postlarga reaktsiya bildirish (random)
+[ 61 ] 0️⃣ CryptoBot: Balans tekshirish
+[ 62 ] ⏩ CryptoBot: Parolsiz cheklarni yig'ish
+[ 63 ] ⏏️ CryptoBot: Pullarni bitta akountga yig`ish
+[ 64 ] *️⃣ CryptoBot: Parolli cheklarni yig'ish
+[ 65 ] 🇷🇺 CryptoBot: Russ tiliga o'zgartirish
+[ 66 ] 🇺🇸 CryptoBot: English tiliga o'zgartirish
+[ 67 ] 👥 Guruhdan guruhga odam qo`shish (ochiq va yopiq guruhlar)
+[ 68 ] 📣 Faqat kanallar sonini aniqlash
+[ 69 ] 👥 Faqat guruhlar sonini aniqlash
+[ 70 ] 🤖 Faqat botlar sonini aniqlash
+[ 71 ] 👤 Faqat userlar sonini aniqlash
+[ 72 ] 🫂  Barchasini sonini aniqlash
+[ 73 ] 👴 Profildan familiyani o`chirish
+[ 74 ] 📝 Profildan bio o`chirish
+[ 75 ] 🖋️  Profildan username o`chirish
+[ 76 ] 🎂 Profildan tug`ilgan kun sanalarini o`chirish
+[ 77 ] 🚭 Bir nechta postlardan reaktsiya o`chirish
+[ 78 ] 🦾 Bitta Postdagi reaktsiyani o`chirish
+[ 79 ] 📊 Kanaldagi so'rovnoma ovozni qaytarib o`lish (vote)
+[ 80 ] 🤖 Bot: Start
+[ 81 ] 🤖 Bot: Start/Kontakt
+[ 82 ] 🤖 Bot: Start/Kontakt/Captcha
+[ 83 ] 🤖 Bot: Start/Knopka/Kontakt/Captcha/Bosilgan ovoz hisoblash
+[ 84 ] 🤖 Bot: Start/Knopka/Captcha/Bosilgan ovoz hisoblash
+[ 85 ] 🤖 Bot: Start/Knopka/Captcha
+[ 86 ] 🤖 Bot: Start/Knopka/Knopka/Captcha
+[ 87 ] 🤖 Bot: Start/Knopka
+[ 88 ] 🤖 Bot: Start/Knopka/Knopka
+[ 89 ] 🤖 Bot: Start/Knopka/Knopka/Knopka
+[ 90 ] 🤖 Bot: Start/Kontakt/Knopka
+[ 91 ] 🤖 Bot: Start/Knopka/Kontakt
+[ 92 ] 🤖 Bot: Start/Captcha
+[ 93 ] 🤖 Bot: Start/Captcha/Knopka
+[ 94 ] 🤖 Bot: Start/Captcha/Knopka/Knopka
+[ 95 ] 🤖 Bot: Start/Xabar
+[ 96 ] 🤖 Bot: Start/Xabar/Knopka
+[ 97 ] 🤖 Bot: Start/Xabar/Knopka/Knopka
+[ 98 ] 🤖 Bot: Start/Xabar/Captcha
+[ 99 ] 🤖 Bot: Start/Captcha/Xabar
+[ 100 ] 🤖 Bot: Start/Xabar/Xabar
+[ 101 ] 🤖 Bot: Start/Xabar/Xabar/Xabar
+=====================================================================
