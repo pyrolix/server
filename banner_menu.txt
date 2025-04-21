@@ -1,5 +1,5 @@
 ==================================================================
-== KODNI YANGILANGAN VAQTI: 07.03.2025  12:00
+== KODNI SONGI YANGILANGAN VAQTI: 07.03.2025  12:00
 ==================================================================
 [ 0 ] 📑 Dastur haqida malumot va yangiliklar!
 [ 1 ] 📞 Telefon raqamlarini tekshirish
@@ -103,4 +103,6 @@
 [ 99 ] 🤖 Bot: Start/Captcha/Xabar
 [ 100 ] 🤖 Bot: Start/Xabar/Xabar
 [ 101 ] 🤖 Bot: Start/Xabar/Xabar/Xabar
+=====================================================================
+===== Dasturchi: @Pyrolix
 =====================================================================
