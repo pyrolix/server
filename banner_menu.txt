@@ -1,5 +1,5 @@
 ==================================================================
-== KODNI SONGI YANGILANGAN VAQTI: 29.04.2025  17:28
+== KODNI SONGI YANGILANGAN VAQTI: 30.04.2025  12:14
 ==================================================================
 [ 0 ] 📑 Dastur haqida malumot va yangiliklar!
 [ 1 ] 📞 Telefon raqamlarini tekshirish
@@ -103,6 +103,8 @@
 [ 99 ] 🤖 Bot: Start/Captcha/Xabar
 [ 100 ] 🤖 Bot: Start/Xabar/Xabar
 [ 101 ] 🤖 Bot: Start/Xabar/Xabar/Xabar
+[ 102 ] 🤖 Bot: Start/Math
+[ 103 ] 🤖 Bot: Start/Math/Knopka
 =====================================================================
-===== Dasturchi: @Pyrolix
+===== Telegram Kanalimiz: @Pyrolix
 =====================================================================
