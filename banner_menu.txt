@@ -36,7 +36,7 @@
 [ 32 ] 🌟 Premium/Stars mukofotlarini tekshirish
 [ 33 ] 🔄 phone.csv faylidagi tekrorlanuvchi raqamlarni o'chirish
 [ 34 ] 🔧 phone.csv da bosh qatorlarni yoq qilish.
-[ 35 ] 📱 Hisobning Premium holatini ko'rish
+[ 35 ] 📱 Hisobning Premium va Stars holatini ko'rish
 [ 36 ] 🌍 24/7 onlayn rejimni yoqish
 [ 37 ] 🛠️ Start/Channel/Verification/Contact ishga tushirish
 [ 38 ] 🔑 Referral ID bilan boshlash
