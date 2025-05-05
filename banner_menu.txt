@@ -40,7 +40,7 @@
 [ 36 ] 🌍 24/7 onlayn rejimni yoqish
 [ 37 ] 🛠️ String Session orqali tasdiqlash kodini olish.
 [ 38 ] 🔑 Ikki bosqichli parolini o'zgartirish koproq variantlar bilan.
-[ 39 ] 🤖 @CosmoRandomizebot shablonidan foydalanish
+[ 39 ] 🖨 phone.csv va phone1.csv da birxil telefon raqamlarni aniqlash
 [ 40 ] 🧳 Hisob ma'lumotlarini ko'rish (ism, bio, user, phone)
 [ 41 ] 📸 Hikoya joylash
 [ 42 ] 💳 Premiumni botga yuborish (Livegram)
