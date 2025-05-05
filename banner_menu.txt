@@ -32,7 +32,7 @@
 [ 28 ] 👍 Postga reaktsiya bildirish
 [ 29 ] 👀 Hikoyaga ko'rish va reaktsiya yuborish
 [ 30 ] 📊 So'rovnomada ovoz berish (vote)
-[ 31 ] 🤖 @BestRandom_bot shablonidan foydalanish
+[ 31 ] 🌟 Stars bor akountlarni stars_phone.csv ga yozish
 [ 32 ] 🌟 Premium/Stars mukofotlarini tekshirish
 [ 33 ] 🔄 phone.csv faylidagi tekrorlanuvchi raqamlarni o'chirish
 [ 34 ] 🔧 phone.csv da bosh qatorlarni yoq qilish.
