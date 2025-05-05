@@ -1,5 +1,5 @@
 ==================================================================
-== KODNI SONGI YANGILANGAN VAQTI: 30.04.2025  12:14
+== KODNI SONGI YANGILANGAN VAQTI: 05.05.2025  18:16
 ==================================================================
 [ 0 ] 📑 Dastur haqida malumot va yangiliklar!
 [ 1 ] 📞 Telefon raqamlarini tekshirish
@@ -43,7 +43,7 @@
 [ 39 ] 🖨 phone.csv va phone1.csv da birxil telefon raqamlarni aniqlash
 [ 40 ] 🧳 Hisob ma'lumotlarini ko'rish (ism, bio, user, phone)
 [ 41 ] 📸 Hikoya joylash
-[ 42 ] 💳 Premiumni botga yuborish (Livegram)
+[ 42 ] 📎 Ishlatilmagan premium yutiqlardagi havolalarni link.csv ga yozish
 [ 43 ] 🚪 Sessiyalardan chiqish (Xavfli)
 [ 44 ] 🌟 Hisobning Stars holatini ko'rish
 [ 45 ] ⛔️ Kanalga shikoyat qilish. (ban berish)
