@@ -1,5 +1,5 @@
 ==================================================================
-== KODNI SONGI YANGILANGAN VAQTI: 05.05.2025  18:16
+== KODNI SONGI YANGILANGAN VAQTI: 15.05.2025  21:12
 ==================================================================
 [ 0 ] 📑 Dastur haqida malumot va yangiliklar!
 [ 1 ] 📞 Telefon raqamlarini tekshirish
@@ -81,30 +81,6 @@
 [ 77 ] 🚭 Bir nechta postlardan reaktsiya o`chirish
 [ 78 ] 🦾 Bitta Postdagi reaktsiyani o`chirish
 [ 79 ] 📊 Kanaldagi so'rovnoma ovozni qaytarib o`lish (vote)
-[ 80 ] 🤖 Bot: Start
-[ 81 ] 🤖 Bot: Start/Kontakt
-[ 82 ] 🤖 Bot: Start/Kontakt/Captcha
-[ 83 ] 🤖 Bot: Start/Knopka/Kontakt/Captcha/Bosilgan ovoz hisoblash
-[ 84 ] 🤖 Bot: Start/Knopka/Captcha/Bosilgan ovoz hisoblash
-[ 85 ] 🤖 Bot: Start/Knopka/Captcha
-[ 86 ] 🤖 Bot: Start/Knopka/Knopka/Captcha
-[ 87 ] 🤖 Bot: Start/Knopka
-[ 88 ] 🤖 Bot: Start/Knopka/Knopka
-[ 89 ] 🤖 Bot: Start/Knopka/Knopka/Knopka
-[ 90 ] 🤖 Bot: Start/Kontakt/Knopka
-[ 91 ] 🤖 Bot: Start/Knopka/Kontakt
-[ 92 ] 🤖 Bot: Start/Captcha
-[ 93 ] 🤖 Bot: Start/Captcha/Knopka
-[ 94 ] 🤖 Bot: Start/Captcha/Knopka/Knopka
-[ 95 ] 🤖 Bot: Start/Xabar
-[ 96 ] 🤖 Bot: Start/Xabar/Knopka
-[ 97 ] 🤖 Bot: Start/Xabar/Knopka/Knopka
-[ 98 ] 🤖 Bot: Start/Xabar/Captcha
-[ 99 ] 🤖 Bot: Start/Captcha/Xabar
-[ 100 ] 🤖 Bot: Start/Xabar/Xabar
-[ 101 ] 🤖 Bot: Start/Xabar/Xabar/Xabar
-[ 102 ] 🤖 Bot: Start/Math
-[ 103 ] 🤖 Bot: Start/Math/Knopka
 =====================================================================
 ===== Telegram Kanalimiz: @Pyrolix
 =====================================================================
