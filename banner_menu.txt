@@ -1,5 +1,5 @@
 ==================================================================
-== KODNI SONGI YANGILANGAN VAQTI: 15.05.2025  21:12
+== KODNI SONGI YANGILANGAN VAQTI: 16.05.2025  16:44
 ==================================================================
 [ 0 ] 📑 Dastur haqida malumot va yangiliklar!
 [ 1 ] 📞 Telefon raqamlarini tekshirish
@@ -28,9 +28,9 @@
 [ 24 ] 🚫 Foydalanuvchi username o'chirish
 [ 25 ] 🖼️ Tasodifiy profil rasmi o'rnating
 [ 26 ] 📢 Reklama yuboring
-[ 27 ] 🔟 So'nggi 10 xabarni ko'rish
+[ 27 ] 🔟 Kanaldagi so'ng gi 10 xabarni ko'rish
 [ 28 ] 👍 Postga reaktsiya bildirish
-[ 29 ] 👀 Hikoyaga ko'rish va reaktsiya yuborish
+[ 29 ] 👀 Storis ko'rish va reaktsiya yuborish
 [ 30 ] 📊 So'rovnomada ovoz berish (vote)
 [ 31 ] 🌟 Stars bor akountlarni stars_phone.csv ga yozish
 [ 32 ] 🌟 Premium/Stars mukofotlarini tekshirish
@@ -81,6 +81,13 @@
 [ 77 ] 🚭 Bir nechta postlardan reaktsiya o`chirish
 [ 78 ] 🦾 Bitta Postdagi reaktsiyani o`chirish
 [ 79 ] 📊 Kanaldagi so'rovnoma ovozni qaytarib o`lish (vote)
+[ 80 ] 👁️  Storis Korish
+[ 81 ] 📁 Folder Kanal/Guruhlarga qoshilish
+[ 82 ] 📂 Folder Kanal/Guruhlardan chiqish
+[ 83 ] 📬 Email bilan Ikki bosqichli parolini o'zgartirish
+[ 84 ] 🔔 Adminligi bor barcha Kanal/Guruhlarga qaytadan qoshilish
+[ 85 ] 📢 Yopiq Kanal/Guruhlarga zayavka tashlab qoshilish 
+[ 86 ] 🎉 Premium/Stars Giveaways konkurslarga qatnashish
 =====================================================================
 ===== Telegram Kanalimiz: @Pyrolix
 =====================================================================
