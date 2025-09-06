@@ -88,6 +88,7 @@
 [ 84 ] 🔔 Adminligi bor barcha Kanal/Guruhlarga qaytadan qoshilish
 [ 85 ] 📢 Yopiq Kanal/Guruhlarga zayavka tashlab qoshilish 
 [ 86 ] 🎉 Premium/Stars Giveaways konkurslarga qatnashish
+[ 87 ] 🏆 akkauntlarda gift/premium/stars borligini tekshirish
 =====================================================================
 ===== Telegram Kanalimiz: @Pyrolix
 =====================================================================
