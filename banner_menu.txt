@@ -90,6 +90,7 @@
 [ 86 ] 🎉 Premium/Stars Giveaways konkurslarga qatnashish
 [ 87 ] 🏆 akkauntlarda gift/premium/stars borligini tekshirish
 [ 88 ] 🌟 Kanaldagi postga stars reaksiya bosish
+[ 89 ] 📢 Kanalga Boost berish
 =====================================================================
 ===== Telegram Kanalimiz: @Pyrolix
 =====================================================================
