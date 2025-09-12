@@ -91,6 +91,7 @@
 [ 87 ] 🏆 akkauntlarda gift/premium/stars borligini tekshirish
 [ 88 ] 🌟 Kanaldagi postga stars reaksiya bosish
 [ 89 ] 📢 Kanalga Boost berish
+[ 90 ] 📬 2Fa o`zgartirish va avtomatik Gmailga ulash (AvtoBot)
 =====================================================================
 ===== Telegram Kanalimiz: @Pyrolix
 =====================================================================
